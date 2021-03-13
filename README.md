@@ -1,3 +1,3 @@
 # test_fork_sync 
 
-Version 0.3
+Version 0.4
